@@ -1,0 +1,9 @@
+{
+    "app_id": "antimutka-cydqs",
+    "config_version": 20210101,
+    "name": "AntiMUTKA",
+    "location": "US-VA",
+    "provider_region": "aws-us-east-1",
+    "deployment_model": "GLOBAL",
+    "environment": "development"
+}
